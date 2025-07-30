@@ -1,4 +1,14 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography'; /* Add this line here */
+
+@layer base {
+  /* Any base styles you want, e.g., for body or html */
+}
+
+/* These must come after @plugin */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
