@@ -1,13 +1,11 @@
 ---
-title: "Unlocking Creativity: My First Steps with AI and Cura"
-date: "2025-07-30" # Use today's date or the date you publish
-slug: "first-steps-ai-cura" # This will be part of your URL (e.g., /blog/first-steps-ai-cura)
-description: "A personal account of how I'm using AI to recover lost painting capabilities and interface with 3D printing software like Cura."
-tags: ["AI", "Accessibility", "MS", "Cura", "3D Printing"]
-author: "Your Name" # Optional, but good for attribution
+title: "Unlocking Creativity: My First Steps with AI and Adobe Suite"
+date: "2025-07-30"
+slug: "first-steps-ai-adobe"
+description: "A personal account of how I'm using AI to recover lost painting capabilities and interface with visual design software like Adobe Photoshop."
+tags: ["Creative AI", "AI", "Accessibility", "MS", "Photoshop", "Adobe Suite"] # Ensure "Creative AI" is here
+author: "Ryan"
 ---
-
-# My Journey Begins: Rediscovering Creative Flow with AI and Cura
 
 As someone living with progressive Multiple Sclerosis, the ability to engage in hobbies that once brought me immense joy, like painting, has become increasingly challenging. My hands no longer cooperate as they once did, and the fine motor control required for traditional art or even navigating complex software interfaces can feel insurmountable.
 

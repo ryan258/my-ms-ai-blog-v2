@@ -49,8 +49,8 @@ export default function RootLayout({
             &copy; {new Date().getFullYear()} My MS & AI Journey. All rights reserved.
             {/* Optional: Add social media links here as per roadmap Phase 3.2 */}
             <div className="mt-2 text-sm">
-                <Link href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100 mx-2">LinkedIn</Link>
-                <Link href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100 mx-2">X (Twitter)</Link>
+                <Link href="https://www.linkedin.com/in/ryanleejohnson/" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100 mx-2">LinkedIn</Link>
+                <Link href="https://x.com/ryandotdev" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:text-blue-100 mx-2">X (Twitter)</Link>
             </div>
           </div>
         </footer>
